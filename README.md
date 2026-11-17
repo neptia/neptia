@@ -1,19 +1,11 @@
-<h1 align="center">Hi 👋, I'm Poomedy Rungen</h1>
+<h1 align="center">Neptia's Git </h1>
 <h3 align="center">Graduate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neptia&label=Profile%20views&color=0e75b6&style=flat" alt="neptia" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neptia" alt="neptia" /></a> </p>
 
-- 🔭 I’m currently working on **SECRET**
-
-- 🌱 I’m currently learning **Laravel**
-
-- 👨‍💻 All of my projects are available at [#](#)
-
 - 📫 How to reach me **poomedyrungen@gmail.com**
-
-- 📄 Know about my experience [#](#)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
